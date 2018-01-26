@@ -1,0 +1,11 @@
+{
+  "artIllumina.size": "200",
+  "artIllumina.reads_folder": "/pipeline/art/reads",
+  "artIllumina.deviation": "10",
+  "artIllumina.threads": "16",
+  "artIllumina.length": "150",
+  "artIllumina.coverage": "20",
+  "artIllumina.name": "Test_genome",
+  "artIllumina.type": "HS25",
+  "artIllumina.reference_1": "/pipeline/references/hs_ref_GRCh38.p7_chr13.fa"
+}

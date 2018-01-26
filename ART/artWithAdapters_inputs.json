@@ -1,0 +1,9 @@
+{
+  "artModified.name": "Test_genome",
+  "artModified.coverage": "20",
+  "artModified.reads_folder": "/pipeline/art_adapters/reads",
+  "artModified.deviation": "10",
+  "artModified.reference_1": "/pipeline/references/hs_ref_GRCh38.p7_chr13.fa",
+  "artModified.size": "200",
+  "artModified.length": "100"
+}
