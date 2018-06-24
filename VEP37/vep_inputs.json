@@ -1,0 +1,8 @@
+{
+  "annotation_vep.num_forks": "4",
+  "annotation_vep.snp_result": "/pipelines/epigenetics-lab/ftp.therabio.kr/TBO170635_20180130/03_vcf_file/AndreyFastAndreyLong/AndreyFastAndreyLong.vcf.gz",
+  "annotation_vep.name": "AndreyFastAndreyLong_vep",
+  "annotation_vep.predicted_name": "AndreyFastAndreyLong_predicted",
+  "annotation_vep.results_folder": "/pipelines/results/sommut/annotations/vep",
+  "annotation_vep.important_name": "AndreyFastAndreyLong_important"
+}

@@ -1,0 +1,7 @@
+{
+  "annotation_vep.num_forks": "8",
+  "annotation_vep.snp_result": "/pipelines/results/sommut/mutect/variants.vcf",
+  "annotation_vep.name": "variants_vep",
+  "annotation_vep.results_folder": "/pipelines/results/sommut/annotations/vep38",
+  "annotation_vep.important_name": "variants_important"
+}

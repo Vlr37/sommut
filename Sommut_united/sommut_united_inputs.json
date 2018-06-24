@@ -1,0 +1,17 @@
+{
+  "sommut_workflow.adapter_1_trimming": "AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC",
+  "sommut_workflow.important_name": "Important_variants",
+  "sommut_workflow.referencefai": "/pipelines/indexes/HUMAN/27/GRCh38.p10.genome.fa.fai",
+  "sommut_workflow.reads_2_trimming": "/pipelines/whales/graywhale/GWkidneymother_S1_L001_R2_001.fastq.gz",
+  "sommut_workflow.referencedict": "/pipelines/indexes/HUMAN/27/GRCh38.p10.genome.dict",
+  "sommut_workflow.reference": "/pipelines/indexes/HUMAN/27/GRCh38.p10.genome.fa",
+  "sommut_workflow.threads": "6",
+  "sommut_workflow.annotation_name": "All_annotated_variants",
+  "sommut_workflow.results_folder": "/pipelines/results/sommut/full",
+  "sommut_workflow.reads_1_trimming": "/pipelines/whales/graywhale/GWkidneymother_S1_L001_R1_001.fastq.gz",
+  "sommut_workflow.annotation_folder": "/pipelines/results/sommut/full/annotations",
+  "sommut_workflow.gwas_name": "gwas_OR_phenotypes",
+  "sommut_workflow.num_forks": "8",
+  "sommut_workflow.adapter_2_trimming": "AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT",
+  "sommut_workflow.phenotypes_name": "all_phenotypes"
+}
